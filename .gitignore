@@ -1,0 +1,20 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# pytest
+.pytest_cache/
+
+# vscode
+.vscode/
+
+# outputs
+results/
+
+# mac/windows
+.DS_Store
+Thumbs.db
